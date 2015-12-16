@@ -1,3 +1,3 @@
-# curriculo.mrprompt.com.br
+# Currículo
 
-currículo on-line
+Meu currículo [on-line](http://www.thiagopaes.inf.br)
